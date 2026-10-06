@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="400" height="300" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
+
+</div>
+
 # 💫 About Me:
 Hi 👋, I'm Lokenath Bid | 3rd Year CS Student<br><br>🎓B.Tech in Computer Science at Asansol Engineering College.<br><br>💡Skills: C, HTML, CSS, JS, React, Java, DSA, Web Development.<br><br>🔍Interests: Full-Stack Development, AI/ML.
 
