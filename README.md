@@ -1,10 +1,22 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0047FF,100:8A2BE2&height=250&section=header&text=Lokenath%20Bid&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Java+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+Modern+Responsive+Websites;Passionate+Programmer+%F0%9F%94%A5;Always+Learning+New+Technologies+%F0%9F%9A%80;Welcome+To+My+GitHub+Profile+%E2%9C%A8" />
+
+<br>
+
+</div>
+
+
+
+# 💫 About Me:
+<div align="center">
+
 <img width="400" height="300" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
 </div>
 
-# 💫 About Me:
 Hi 👋, I'm Lokenath Bid | 3rd Year CS Student<br><br>🎓B.Tech in Computer Science at Asansol Engineering College.<br><br>💡Skills: C, HTML, CSS, JS, React, Java, DSA, Web Development.<br><br>🔍Interests: Full-Stack Development, AI/ML.
 
 
