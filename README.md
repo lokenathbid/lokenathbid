@@ -36,6 +36,6 @@ Hi 👋, I'm Lokenath Bid | 3rd Year CS Student<br><br>🎓B.Tech in Computer Sc
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lokenathbid&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=lokenathbid&label=VISITORS&color=00C853&style=flat&icon=eye)](https://github.com/lokenathbid)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
