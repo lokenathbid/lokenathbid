@@ -29,7 +29,6 @@ Hi 👋, I'm Lokenath Bid | 3rd Year CS Student<br><br>🎓B.Tech in Computer Sc
   
 ![](https://github-readme-stats.shion.dev/api?username=lokenathbid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=lokenathbid&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lokenathbid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
